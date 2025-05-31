@@ -1,4 +1,4 @@
-#🥁 Drum Kit
+# Drum Kit
 
 This is a fun and interactive Drum Kit web app . It lets users play different drum sounds by either clicking on the drum buttons or pressing corresponding keys on the keyboard.
 
